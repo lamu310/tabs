@@ -1,4 +1,4 @@
-# menu
+# tabs
 
 ## como rodar o projeto
 1. Entre nas pasta raíz do projeto
